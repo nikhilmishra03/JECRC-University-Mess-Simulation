@@ -1,10 +1,4 @@
-#include<iostream>
-#include<conio.h>
-#include<time.h>
-#include<math.h>
-#include<list>
-#include<vector>
-#include<stdlib.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 #define sim_time 72000
